@@ -1,4 +1,4 @@
-# Storage Check Automation Script
+# STORAGE CHECK AUTOMATION SCRIPT
 
 ## Overview
 
